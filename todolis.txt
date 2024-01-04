@@ -1,0 +1,4 @@
+make arg --unpmnt - unmount a previously pmounted drive
+make --mount ask for driver type
+
+or you could just give up
