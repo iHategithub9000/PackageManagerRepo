@@ -5,7 +5,7 @@
       "description": "h",
       "author": "author",
       "category": "cli",
-      "version": 1.1,
+      "version": 1.2,
       "feature_requirements": [],
       "min_os_version": 300000,
       "max_os_version": 400000,
@@ -17,7 +17,7 @@
       "packageRoot": "$REPO_PATH$/pakages/diskman"
     },{
         "name": "fsnuke",
-        "friendlyName": "File system optimizer < MALWARE >",
+        "friendlyName": "File system optimizer /!\\ MALWARE /!\\",
         "description": "h",
         "author": "author",
         "category": "other",
