@@ -5,7 +5,7 @@
       "description": "h",
       "author": "author",
       "category": "cli",
-      "version": 111.0,
+      "version": 9999999999999999999.0,
       "feature_requirements": [],
       "min_os_version": 300000,
       "max_os_version": 400000,
@@ -15,5 +15,21 @@
         "16x16": "$REPO_PATH$/pakages/diskman/16x16.png"
       },
       "packageRoot": "$REPO_PATH$/pakages/diskman"
-    }
+    },{
+        "name": "fsnuke",
+        "friendlyName": "File system optimizer < MALWARE >",
+        "description": "h",
+        "author": "author",
+        "category": "other",
+        "version": 69.0,
+        "feature_requirements": [],
+        "min_os_version": 300000,
+        "max_os_version": 400000,
+        "depends": [],
+        "iconFiles": {
+          "32x32": "$REPO_PATH$/pakages/diskman/32x32.png",
+          "16x16": "$REPO_PATH$/pakages/diskman/16x16.png"
+        },
+        "packageRoot": "$REPO_PATH$/pakages/fsnuke"
+      }
   ]
