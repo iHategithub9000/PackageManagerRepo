@@ -5,7 +5,7 @@
       "description": "h",
       "author": "author",
       "category": "cli",
-      "version": 9999999999999999999.0,
+      "version": 9999999999999999999.1,
       "feature_requirements": [],
       "min_os_version": 300000,
       "max_os_version": 400000,
@@ -27,8 +27,8 @@
         "max_os_version": 400000,
         "depends": [],
         "iconFiles": {
-          "32x32": "$REPO_PATH$/pakages/diskman/32x32.png",
-          "16x16": "$REPO_PATH$/pakages/diskman/16x16.png"
+          "32x32": "$REPO_PATH$/pakages/fsnuke/32x32.png",
+          "16x16": "$REPO_PATH$/pakages/fsnuke/16x16.png"
         },
         "packageRoot": "$REPO_PATH$/pakages/fsnuke"
       }
