@@ -1,4 +1,0 @@
-
-make --mount ask for driver type
-
-or you could just give up
