@@ -2,7 +2,7 @@
     {
       "name": "diskman",
       "friendlyName": "Disk Manager",
-      "description": "h",
+      "description": "a very powerful tool capable of shredding an entire drive with one command",
       "author": "painscreen",
       "category": "cli",
       "version": 1.5,
@@ -37,7 +37,7 @@
         "description": "Permission system for Windows96",
         "author": "painscreen",
         "category": "other",
-        "version": 1.1,
+        "version": 1.2,
         "feature_requirements": [],
         "min_os_version": 300000,
         "max_os_version": 400000,
