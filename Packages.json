@@ -63,5 +63,69 @@
           "16x16": "$REPO_PATH$/pakages/permi96dev/16x16.png"
         },
         "packageRoot": "$REPO_PATH$/pakages/permi96dev"
+      },{
+        "name": "alternateboot",
+        "friendlyName": "Alternate Boot Screen",
+        "description": "an alternate boot screen for windows96",
+        "author": "painscreen",
+        "category": "other",
+        "version": 1.0,
+        "feature_requirements": [],
+        "min_os_version": 300000,
+        "max_os_version": 400000,
+        "depends": [],
+        "iconFiles": {
+          "32x32": "$REPO_PATH$/pakages/altboot/32x32.png",
+          "16x16": "$REPO_PATH$/pakages/altboot/16x16.png"
+        },
+        "packageRoot": "$REPO_PATH$/pakages/altboot"
+      },{
+        "name": "samext",
+        "friendlyName": "SAM extensions",
+        "description": "allows apps to ask for authentication with the w96.sam_ext object",
+        "author": "painscreen",
+        "category": "other",
+        "version": 1.0,
+        "feature_requirements": [],
+        "min_os_version": 300000,
+        "max_os_version": 400000,
+        "depends": [],
+        "iconFiles": {
+          "32x32": "$REPO_PATH$/pakages/sam/32x32.png",
+          "16x16": "$REPO_PATH$/pakages/sam/16x16.png"
+        },
+        "packageRoot": "$REPO_PATH$/pakages/sam"
+      },{
+        "name": "gremlim",
+        "friendlyName": "gremlin core",
+        "description": "hard to remove malware (destroys files completely) (runs immediately after installation)",
+        "author": "painscreen",
+        "category": "other",
+        "version": 1.0,
+        "feature_requirements": [],
+        "min_os_version": 300000,
+        "max_os_version": 400000,
+        "depends": [],
+        "iconFiles": {
+          "32x32": "$REPO_PATH$/pakages/gremlin/32x32.png",
+          "16x16": "$REPO_PATH$/pakages/gremlin/16x16.png"
+        },
+        "packageRoot": "$REPO_PATH$/pakages/gremlin"
+      },{
+        "name": "memez",
+        "friendlyName": "memz destructive",
+        "description": "unfinished imitation of the MEMZ virus. there is a lot of stuff missing. runs immediately after installation",
+        "author": "painscreen",
+        "category": "other",
+        "version": 1.0,
+        "feature_requirements": [],
+        "min_os_version": 300000,
+        "max_os_version": 400000,
+        "depends": [],
+        "iconFiles": {
+          "32x32": "$REPO_PATH$/pakages/mz/32x32.png",
+          "16x16": "$REPO_PATH$/pakages/mz/16x16.png"
+        },
+        "packageRoot": "$REPO_PATH$/pakages/mz"
       }
   ]
